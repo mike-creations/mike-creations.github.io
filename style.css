@@ -1,0 +1,32 @@
+body { background-color: #C3F9F6
+		 }
+/* h1 {color: #B50202} */
+#header {color: red}
+#header_1 {
+	color: #F2991A; margin-top: 15px; margin-left: 400px;}
+#style1 {margin-left: 40px;}
+#example1 {
+	font-size: 150%;
+	margin-left: 250px;
+}
+.href {
+	color: #210E51;
+	text-decoration: none;}
+.href:hover {color: #246413;}
+#testBlock {
+	border: 2px dotted black;
+	height: 450px;
+	width: 600px;
+	background-color: #F0F0F0;
+	margin-left: 300px;
+	padding: 15px;
+}
+.image-left { 
+	text-align: center;
+}
+#answer {
+	color:red;
+	font-size: 200%;
+	background-color: white
+
+}
